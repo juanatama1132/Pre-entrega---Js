@@ -1,0 +1,10 @@
+.cuerpo{
+    background-image: url(../img/1b317c42cff3e28a2b5ebc05f1f0daa4.jpg)
+}
+
+.contenedor div{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px;
+}
